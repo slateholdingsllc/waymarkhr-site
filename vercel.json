@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://arbiterhr.com/$1",
+      "permanent": true
+    }
+  ]
+}
